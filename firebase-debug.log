@@ -1,0 +1,28 @@
+[debug] [2020-12-31T22:19:55.922Z] ----------------------------------------------------------------------
+[debug] [2020-12-31T22:19:55.924Z] Command:       /Users/princetape/.nvm/versions/node/v13.9.0/bin/node /Users/princetape/.nvm/versions/node/v13.9.0/bin/firebase init
+[debug] [2020-12-31T22:19:55.924Z] CLI Version:   9.1.0
+[debug] [2020-12-31T22:19:55.924Z] Platform:      darwin
+[debug] [2020-12-31T22:19:55.924Z] Node Version:  v13.9.0
+[debug] [2020-12-31T22:19:55.925Z] Time:          Thu Dec 31 2020 17:19:55 GMT-0500 (Eastern Standard Time)
+[debug] [2020-12-31T22:19:55.926Z] ----------------------------------------------------------------------
+[debug] [2020-12-31T22:19:55.926Z] 
+[debug] [2020-12-31T22:19:55.929Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-12-31T22:19:55.930Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/princetape/Development/creations/vs-portfolio
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
