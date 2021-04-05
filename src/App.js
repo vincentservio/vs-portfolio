@@ -1,6 +1,6 @@
 import "./App.css";
 import "./header.css";
-import Header from "./Header";
+import Header from "./Header/Header";
 import {Mission} from "./Skills/Mission";
 import {Languages} from "./Skills/Languages";
 import Skills from "./Skills";

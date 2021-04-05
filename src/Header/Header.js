@@ -17,6 +17,7 @@ export default class Header extends Component {
           alt="avi"
           className="avi"
         />
+        <div></div>
       </header>
     );
   }
